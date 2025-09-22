@@ -1,4 +1,4 @@
-# ValamiPrivateRepo
+# ValamiPublicRepo
 
 ## Kép
 
