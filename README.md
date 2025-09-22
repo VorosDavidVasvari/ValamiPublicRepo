@@ -1,5 +1,5 @@
-# ValamiPublicRepo
+# ValamiPrivateRepo
 
 ## Kép
 
-![alt text](idkvalami.png)
+![alternative text](idkvalami.png)
